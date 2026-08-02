@@ -20,10 +20,10 @@ This dashboard enables stakeholders to monitor key business metrics, identify hi
 
 The dashboard highlights the following business metrics:
 
-- **💰 Total Sales:** $642.13M
-- **📦 Total Orders:** 10K
-- **🧾 Average Order Value (AOV):** 64.21K
-- **📊 Total Quantity Sold:** 30K
+- **Total Sales:** $642.13M
+- **Total Orders:** 10K
+- **Average Order Value (AOV):** 64.21K
+- **Total Quantity Sold:** 30K
 
 ##  Dashboard Features
 
