@@ -320,7 +320,7 @@ Syntecx-Hub-Tasks/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Ita-leonard/Sales-Performance-Dashboard.git
+git clone https://github.com/Ita-leonard/Amazon-Sales-Dashboard.git
 ```
 
 ### Open the Dashboard
@@ -377,7 +377,7 @@ This dashboard was created for **educational**, **portfolio**, and **business in
 
 ## Leonard Ayamba
 
-**Data Analyst | Power BI Developer | Medical Laboratory Science Student**
+**Data Analyst | Power BI Developer | Medical Laboratory Scientist**
 
 I am passionate about transforming raw data into meaningful insights through analytics, interactive dashboards, and compelling data storytelling. My goal is to build scalable Business Intelligence solutions that empower organizations to make informed decisions.
 
