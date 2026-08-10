@@ -1,0 +1,337 @@
+# Social-Media-Data-Visualization
+ A comprehensive **Excel Dashboard** designed to analyze and monitor the performance of major social media platforms through engagement, virality, conversations, and sentiment analysis. 
+
+## 📖 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Dashboard Preview](#-dashboard-preview)
+- [Business Problem](#-business-problem)
+- [Project Objectives](#-project-objectives)
+- [Key Performance Indicators](#-key-performance-indicators)
+- [Dashboard Features](#-dashboard-features)
+- [Visualizations](#-visualizations)
+- [Key Insights](#-key-insights)
+- [Tools & Technologies](#-tools--technologies)
+- [Data Analysis Workflow](#-data-analysis-workflow)
+- [Repository Structure](#-repository-structure)
+- [How to Use](#-how-to-use)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Future Improvements](#-future-improvements)
+- [Disclaimer](#-disclaimer)
+- [Author](#-author)
+
+
+# 📌 Project Overview
+
+The **Social Media Platforms Performance Dashboard** is an interactive Business Intelligence solution developed in **Microsoft Power BI** to evaluate and compare the performance of leading social media platforms.
+
+The dashboard consolidates engagement, virality, conversation volume, and sentiment metrics into a centralized reporting interface, enabling marketers, digital strategists, and business leaders to assess campaign effectiveness, audience interactions, and overall platform performance.
+
+Designed with a clean executive-style layout, the dashboard enables quick decision-making through intuitive visualizations and dynamic KPI reporting.
+
+
+# 🖼 Dashboard Preview
+
+![Social-Media-Data-Visualization](DASHBOARD%20IMAGE.PNG)
+
+# 💼 Business Problem
+
+Organizations invest significant resources into social media marketing but often struggle to determine:
+
+- Which platform generates the highest engagement.
+- Where audiences interact the most.
+- Which platforms drive conversations.
+- Overall audience sentiment toward published content.
+- Performance trends across different time periods.
+
+This dashboard addresses these challenges by presenting key performance metrics in an interactive and easy-to-understand format.
+
+# 🎯 Project Objectives
+
+The objectives of this dashboard are to:
+
+- Monitor social media performance across multiple platforms.
+- Compare engagement levels between platforms.
+- Measure virality and audience conversations.
+- Analyze audience sentiment.
+- Track performance trends over time.
+- Support data-driven marketing decisions.
+- Identify high-performing platforms and content opportunities.
+
+
+# 📊 Key Performance Indicators
+
+## Overall Performance
+
+| KPI | Value |
+|------|-------:|
+| 👍 Total Engagement | **2,667.5** |
+| 📢 Total Virality | **1,736** |
+| 💬 Total Conversation | **838.60** |
+| 😊 Net Sentiment Score | **2,292** |
+
+
+## Platform Summary
+
+The dashboard includes individual performance summaries for:
+
+- Facebook
+- X (Twitter)
+- Reddit
+- YouTube
+- Instagram
+
+Each platform displays:
+
+- Total Engagement
+- Virality
+- Conversation Volume
+
+allowing quick comparison across channels.
+
+
+# 🚀 Dashboard Features
+
+- Executive KPI Cards
+- Platform Performance Comparison
+- Sentiment Distribution Analysis
+- Year-over-Year Performance Comparison
+- Daily Engagement Trends
+- Platform-Level Ranking
+- Interactive Bar Charts
+- Donut Chart Visualization
+- Line Trend Analysis
+- Professional Dark Theme Layout
+
+# 📈 Visualizations
+
+## 📊 Platform Engagement Ranking
+
+A horizontal bar chart compares engagement across major social media platforms, making it easy to identify the highest-performing channels.
+
+
+## 😊 Sentiment Distribution
+
+A donut chart illustrates the distribution of audience sentiment across five categories:
+
+- Happy
+- Angry
+- Confused
+- Excited
+- Sad
+
+This visualization provides a quick overview of public perception and audience reactions.
+
+
+## 📅 Year-over-Year Platform Performance
+
+Clustered column charts compare platform performance across **2024** and **2025**, highlighting growth and performance changes over time.
+
+
+## 📈 Daily Engagement Trend
+
+A line chart tracks engagement across multiple days, enabling users to monitor fluctuations in audience interaction and identify peak engagement periods.
+
+
+## 💬 Sentiment Trend Analysis
+
+A trend line compares the proportions of:
+
+- Positive Sentiment
+- Neutral Sentiment
+- Negative Sentiment
+
+across two reporting periods, helping evaluate changes in audience perception over time.
+
+
+## 📆 Weekly Performance Comparison
+
+A clustered column chart displays engagement by day of the week, allowing users to identify the best-performing days for content publishing.
+
+
+## 📱 Platform Percentage Contribution
+
+A bar chart compares the percentage contribution of each platform, providing insight into the relative performance of different social media channels.
+
+
+# 🔍 Key Insights
+
+Based on the dashboard, several business insights can be derived:
+
+- Engagement levels vary significantly across social media platforms.
+- Some platforms generate substantially higher virality than others.
+- Audience sentiment is predominantly neutral to positive.
+- Platform performance changes between reporting years highlight evolving audience behavior.
+- Certain weekdays consistently achieve stronger engagement, providing guidance for content scheduling.
+- Social media conversations differ across platforms, indicating varying audience participation levels.
+
+
+# 📊 Business Value
+
+This dashboard enables organizations to:
+
+- Measure campaign effectiveness.
+- Identify the best-performing social media platforms.
+- Improve content strategy using engagement insights.
+- Understand audience sentiment.
+- Optimize publishing schedules.
+- Support marketing decisions with real-time performance metrics.
+- Increase return on investment (ROI) from digital marketing initiatives.
+
+
+# ⚙ Data Analysis Workflow
+
+## 1. Data Collection
+
+Collected social media metrics including:
+
+- Engagement
+- Virality
+- Conversation Volume
+- Sentiment
+- Platform Information
+- Daily Performance
+- Reporting Year
+
+
+## 2. Data Cleaning
+
+Performed using **Power Query**:
+
+- Removed duplicates
+- Handled missing values
+- Standardized platform names
+- Corrected data types
+- Validated data quality
+
+## 3. Data Modeling
+
+Established relationships between tables to enable efficient filtering and dynamic reporting.
+
+
+## 4. DAX Measures
+
+Created custom calculations for:
+
+- Total Engagement
+- Total Virality
+- Total Conversation
+- Net Sentiment Score
+- Platform Comparisons
+- Percentage Contribution
+
+
+## 5. Dashboard Development
+
+The dashboard was designed following Business Intelligence best practices:
+
+- Clear visual hierarchy
+- Executive-friendly layout
+- Consistent color palette
+- Interactive reporting
+- Effective data storytelling
+
+
+# 🛠 Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+- Interactive Dashboard Design
+
+
+# 📁 Repository Structure
+
+```text
+Social-Media-Performance-Dashboard/
+│
+├── Social Media Performance Dashboard.xlsx
+├── social media by leo ay(1).PNG
+├── README.md
+
+```
+
+
+# 🚀 How to Use
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Ita-Leonard/Social-Media-Performance-Dashboard.git
+```
+
+### Open the Dashboard
+
+1. Install **Microsoft excel**.
+2. Open the `.xlsx` file.
+3. Refresh the dataset if required.
+4. Explore the interactive visuals and insights.
+
+
+# 💡 Skills Demonstrated
+
+This project demonstrates expertise in:
+
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Calculations
+- KPI Design
+- Marketing Analytics
+- Social Media Analytics
+- Executive Reporting
+- Data Storytelling
+
+
+# 📈 Future Improvements
+
+Potential enhancements include:
+
+- Real-time social media API integration.
+- Campaign-level performance analysis.
+- Audience demographic segmentation.
+- Geographic performance mapping.
+- Click-through rate (CTR) analysis.
+- Conversion tracking.
+- Influencer performance metrics.
+- Mobile-responsive dashboard optimization.
+
+
+# 📚 Disclaimer
+
+This dashboard was developed for **educational**, **portfolio**, and **business intelligence demonstration** purposes. The metrics shown represent the dataset used for this project and may not reflect actual social media performance from any specific organization.
+
+
+# 👨‍💻 Author
+
+## Leonard Ayamba Ita
+
+**Data Analyst | Power BI Developer | Medical Laboratory Science Student**
+
+I specialize in transforming raw datasets into meaningful business insights through interactive dashboards, advanced analytics, and compelling data storytelling. My passion lies in building data-driven solutions that empower organizations to make informed decisions.
+
+
+# 🤝 Connect With Me
+
+- 💼 **LinkedIn:** *www.linkedin.com/in/leonard-ita*
+- 🐙 **GitHub:** *https://github.com/Ita-Leonard/*
+- 📧 **Email:** *italeonard153@gmail.com*
+
+
+# ⭐ Support
+
+If you found this project valuable, please consider giving this repository a **⭐ Star**. Your support is greatly appreciated and helps showcase my work to the wider data analytics community.
+
+
+## 📄 License
+
+This project is licensed under the **MIT License**. Feel free to use, modify, and distribute this project in accordance with the license terms.
+
+
+> *"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
